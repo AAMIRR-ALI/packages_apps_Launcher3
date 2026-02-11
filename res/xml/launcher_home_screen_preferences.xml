@@ -270,10 +270,6 @@
             launcher:iconSpaceReserved="false" />
 
         <SwitchPreferenceCompat
-            android:key="pref_dock_theme"
-            android:title="@string/dock_theme_title"
-            android:summary="@string/dock_theme_summary"
-            launcher:iconSpaceReserved="false" />
 
         <com.android.launcher3.settings.preferences.CustomSeekBarPreference
             android:key="pref_search_radius_size"
